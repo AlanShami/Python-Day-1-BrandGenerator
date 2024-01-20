@@ -6,6 +6,8 @@ This is day 1 of 100 of learning python and creating a project in python
 
 #10/02/202
 
+![](https://github.com/AlanShami/Python-Day-1-BrandGenerator/blob/main/project_pic.png)
+
 # Basics Python (print function, input function, Strings, debugging, variables)
 # ---------------------------------------------
 
