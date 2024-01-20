@@ -9,12 +9,12 @@ This is day 1 of 100 of learning python and creating a project in python
 ![](https://github.com/AlanShami/Python-Day-1-BrandGenerator/blob/main/project_pic.png)
 
 # Basics Python (print function, input function, Strings, debugging, variables)
-# ---------------------------------------------
+---------------------------------------------
 
-# print("Hello " + input("What is your name? "))
+print("Hello " + input("What is your name? "))
 
-# name = input("What is your name?\n")
+name = input("What is your name?\n")
 
-# print(type(name))
+print(type(name))
 
 - [main.py]()
